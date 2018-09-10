@@ -7,6 +7,8 @@ Cette application permet d'écouter, de mettre en ligne et d'acheter des Beats m
 Pour l'instant la structure est présente, ainsi que quelques fonctionnalités.
 Nombre de participants ayant contribué au développement : 2.
 Lien de la page github.io (à visiter en format téléphone) : 
+</br>
+</br>
 
 https://fakereuw.github.io/ProjetCooperatif/home.html
 
